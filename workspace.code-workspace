@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Test",
+			"path": "../../MSSQL/Test/Test"
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"Test.sqlproj"
+		]
+	}
+}
